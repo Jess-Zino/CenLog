@@ -8,6 +8,7 @@ This README provides a quick guide on how to set up and run Python code in a vir
 ## Prerequisites
 
 - Python installed on your system.
+- Mongodb installed on your system and connected to your localhost
 
 ## Setting Up a Virtual Environment
 
